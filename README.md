@@ -49,8 +49,7 @@
 
 ### 📫 Get in touch
 
-- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: dnusilas@gmail.com
 - 🇹🇭 Based in Thailand · Speaks Thai & English
 
 ---
