@@ -26,6 +26,7 @@
 
 **Game Dev & 3D**
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 — GDScript · Shaders · AnimationTree / FSM · Data-Oriented Design
 
